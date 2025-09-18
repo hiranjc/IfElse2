@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\IfElse2\bin\Debug\net8.0\IfElse2.exe
+C:\Users\ET73\Downloads\projetos-c#\IfElse2\bin\Debug\net8.0\IfElse2.deps.json
+C:\Users\ET73\Downloads\projetos-c#\IfElse2\bin\Debug\net8.0\IfElse2.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\IfElse2\bin\Debug\net8.0\IfElse2.dll
+C:\Users\ET73\Downloads\projetos-c#\IfElse2\bin\Debug\net8.0\IfElse2.pdb
+C:\Users\ET73\Downloads\projetos-c#\IfElse2\obj\Debug\net8.0\IfElse2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\IfElse2\obj\Debug\net8.0\IfElse2.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\IfElse2\obj\Debug\net8.0\IfElse2.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\IfElse2\obj\Debug\net8.0\IfElse2.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\IfElse2\obj\Debug\net8.0\IfElse2.dll
+C:\Users\ET73\Downloads\projetos-c#\IfElse2\obj\Debug\net8.0\refint\IfElse2.dll
+C:\Users\ET73\Downloads\projetos-c#\IfElse2\obj\Debug\net8.0\IfElse2.pdb
+C:\Users\ET73\Downloads\projetos-c#\IfElse2\obj\Debug\net8.0\IfElse2.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\IfElse2\obj\Debug\net8.0\ref\IfElse2.dll
